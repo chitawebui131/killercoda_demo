@@ -1,0 +1,84 @@
+{
+"title": "Workshop - Linux first expiriens ",
+  "description": "Let's learn some basic commands on Ubuntu 2x|xx",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+  
+    },
+    "steps": [
+      {
+        "title": "CLI",
+        "text": "step1/text.md"
+        
+      },
+      {
+        "title": "CLI",
+        "text": "step2/text.md"
+        
+      },
+      {
+        "title": "Files and Directories",
+        "text": "step3/text.md"
+        
+      },
+      {
+        "title": "Files and Directories",
+        "text": "step4/text.md"
+        
+      },
+      {
+        "title": "Files and Directories",
+        "text": "step5/text.md"
+        
+      },
+      {
+        "title": "Files and Directories",
+        "text": "step6/text.md"
+        
+      },
+      {
+        "title": "Files and Directories",
+        "text": "step7/text.md"
+        
+      },
+      {
+        "title": "Files and Directories",
+        "text": "step8/text.md"
+        
+      },
+      {
+        "title": "Files and Directories",
+        "text": "step9/text.md"
+        
+      },
+      {
+        "title": "Files and Directories",
+        "text": "step10/text.md"
+        
+      },
+      {
+        "title": "Files and Directories",
+        "text": "step11/text.md"
+        
+      },
+      {
+        "title": "Files and Directories",
+        "text": "step12/text.md"
+        
+      },
+      {
+        "title": "Files and Directories",
+        "text": "step13/text.md"
+        
+      }
+
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
